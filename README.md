@@ -7,10 +7,7 @@ Core project1:
 Core project2: 
     <b>https://github.com/BertaBescos/DynaSLAM</b>
 
-## Building
-cd catkin_workspace/src  　　
-git https://github.com/NancyHu3245/WF-SLAM.git  　　
-cd ../  　　
+## Building 　　
 ./build.sh  　　
 
 
@@ -32,3 +29,5 @@ Only implement RGBD(ROS / ZED camera) example:
 
 <img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed.png" align="left" width="360" >
 <img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png" width=360" >
+
+                                                                          
