@@ -21,23 +21,14 @@ Configure the following four .json files in json-config in vscode, change the re
 ## TUM Dataset
 Download a sequence from http://vision.in.tum.de/data/datasets/rgbd-dataset/download and uncompress it.  
 
-![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/pic1.png)
-
-![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/wf-slam1.png)
-
-<img src="elevation_mapping_demos/doc/anymal_locomotion_planner.jpg" align="left" width="180" >
-<img src="elevation_mapping_demos/doc/anymal_outdoor_stairs.jpg" width="180" >
-
-![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/pic2.png)
-
-![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/wf-slam2.png)
-
-
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/pic1.png" align="left" width="360" >
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/wf-slam1.png" width=360" >
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/pic2.png" align="left" width="360" >
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/wf-slam2.png" width=360" >
 
 
 ## Real World 
 Only implement RGBD(ROS / ZED camera) example:
-![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/zed.png)
-![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png)
-<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed.png" align="left" width="180" >
-<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png" width="180" >
+
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed.png" align="left" width="360" >
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png" width=360" >
