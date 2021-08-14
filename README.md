@@ -39,5 +39,5 @@ Download a sequence from http://vision.in.tum.de/data/datasets/rgbd-dataset/down
 Only implement RGBD(ROS / ZED camera) example:
 ![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/zed.png)
 ![image](https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png)
-<img src="elevation_mapping_demos/doc/anymal_locomotion_planner.jpg" align="left" width="180" >
-<img src="elevation_mapping_demos/doc/anymal_outdoor_stairs.jpg" width="180" >
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed.png" align="left" width="180" >
+<img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png" width="180" >
