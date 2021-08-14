@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/python2.7/",
+                "/usr/local/include/pcl-1.7",
+                "/usr/include/boost",
+                "/home/zlab-apollo/build-from-code/panggolin/Pangolin/build/src/include",
+                "/home/zlab-apollo/build-from-code/panggolin/Pangolin/include",
+                "/usr/lib/python2.7/dist-packages/numpy/core/include/numpy",
+                "/usr/include/vtk-6.2"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

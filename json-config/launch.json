@@ -1,0 +1,37 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/zlab-apollo/LB/DynaSLAM/Examples/RGB-D/rgbd_tum",
+            "args": [
+                "/home/zlab-apollo/LB/DynaSLAM/Vocabulary/ORBvoc.txt",
+                 //"/home/zlab-apollo/LB/DynaSLAM/Examples/RGB-D/ZED.yaml",
+                 //"/home/zlab-apollo/data/dataset_11/",
+                // "/home/zlab-apollo/data/dataset_11/associate.txt",  
+                "/home/zlab-apollo/LB/DynaSLAM/Examples/RGB-D/TUM3.yaml" ,             
+                "/home/zlab-apollo/LB/DynaSLAM/data/tum/rgbd_dataset_freiburg3_walking_xyz/",
+                "/home/zlab-apollo/LB/DynaSLAM/Examples/RGB-D/associations/fr3_walking_xyz.txt",
+                "/home/zlab-apollo/LB/DynaSLAM/data/maskSx/",
+                "/home/zlab-apollo/LB/DynaSLAM/data/outputSx/"],
+            "stopAtEntry": false,
+            "cwd": "/home/zlab-apollo/LB/DynaSLAM",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "build",
+        }
+    ]
+}

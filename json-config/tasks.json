@@ -1,0 +1,18 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "bash ./build.sh -g",
+//            "args": ["-g"],
+            "group": {
+                "kind": "build", //设置为build组，这样当你在vscode中执行build命令时，
+                                 //就能自动执行"command"中的命令了
+                "isDefault": true
+            }
+        }
+    ]
+}
