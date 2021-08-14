@@ -8,10 +8,10 @@ Core project2:
     <b>https://github.com/BertaBescos/DynaSLAM</b>
 
 ## Building
-cd catkin_workspace/src
-https://github.com/NancyHu3245/WF-SLAM.git
-cd ../
-./build.sh
+cd catkin_workspace/src  　　
+git https://github.com/NancyHu3245/WF-SLAM.git  　　
+cd ../  　　
+./build.sh  　　
 
 
 ## Usage
