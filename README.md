@@ -18,7 +18,6 @@ cd ..
 Configure the following four .json files in json-config in vscode, change the relevant file path according to your file path, and then press F5 to run.
 
 ## TUM Dataset
-A demonstration of the system can be found here -> https://www.youtube.com/watch?v=O3tz_ftHV48
 
 Download a sequence from http://vision.in.tum.de/data/datasets/rgbd-dataset/download and uncompress it.  
 
@@ -35,6 +34,8 @@ Only implement RGBD(ROS / ZED camera) example:
 <img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png" width=360" >
                                                                                
 ## Download
-link: https://pan.baidu.com/s/14iTntcRyD79qt62LzCfaWg 
+                                                                               
+Data used by the system can be downloaded through 
+                                                                                                                                 link: https://pan.baidu.com/s/14iTntcRyD79qt62LzCfaWg 
 code: xfsv 
                                                             
