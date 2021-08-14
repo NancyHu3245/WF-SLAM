@@ -35,5 +35,6 @@ Only implement RGBD(ROS / ZED camera) example:
 <img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/zed2.png" width=360" >
                                                                                
 ## Download
-https://pan.baidu.com/s/4mrimJ36
+link: https://pan.baidu.com/s/14iTntcRyD79qt62LzCfaWg 
+code: xfsv 
                                                             
