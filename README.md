@@ -18,7 +18,6 @@ cd ..
 Configure the following four .json files in json-config in vscode, change the relevant file path according to your file path, and then press F5 to run.
 
 ## TUM Dataset
-
 Download a sequence from http://vision.in.tum.de/data/datasets/rgbd-dataset/download and uncompress it.  
 
 <img src="https://github.com/NancyHu3245/WF-SLAM/blob/main/pic1.png" align="left" width="360" >
