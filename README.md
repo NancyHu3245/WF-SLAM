@@ -10,7 +10,7 @@ Core project2:
 ## Building 　　
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/RobustFieldAutonomyLab/LeGO-LOAM.git
+git clone https://github.com/NancyHu3245/WF-SLAM.git
 cd ..
 ./build.sh
 ```
